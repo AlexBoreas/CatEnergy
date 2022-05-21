@@ -1,0 +1,45 @@
+body {
+    font-family: 'Oswald', 'Arial';
+    background-color: #ededed;
+}
+
+main{
+    padding: 5%;
+}
+
+p{
+    color: gray;
+    align-items: center;
+}
+
+button {
+    background-color: #68b738;
+    color: #ffffff;
+    border-color: rgba(0, 0, 0, 0);
+}
+
+.top-container {
+    display: flex;
+    align-items: center;
+}
+
+.descValue {
+    text-align: calc();
+}
+
+.catEat {
+    height: 500px;
+    margin: 4px 0 4px 0;
+    background-color: #ffffff;
+    width: 100%;
+}
+
+.eatName{
+
+}
+
+.eatInfo{
+    text-align: right;
+}
+
+
